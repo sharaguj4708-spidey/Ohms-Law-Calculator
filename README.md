@@ -24,7 +24,6 @@ Requires a C compiler such as GCC, but it is also compatible with online compile
     Current = 3.00 A
 
 ## Future Improvements
-- Menu to choose what to calculate
 - Series and parallel resistance
 - Loop for repeated calculations
 
